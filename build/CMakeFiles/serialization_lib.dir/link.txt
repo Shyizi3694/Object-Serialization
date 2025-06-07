@@ -1,0 +1,2 @@
+/usr/bin/ar qc libserialization_lib.a CMakeFiles/serialization_lib.dir/src/binary_serialization/binary_serializer.cpp.o CMakeFiles/serialization_lib.dir/src/main.cpp.o CMakeFiles/serialization_lib.dir/src/xml_serialization/xml_serializer.cpp.o
+/usr/bin/ranlib libserialization_lib.a

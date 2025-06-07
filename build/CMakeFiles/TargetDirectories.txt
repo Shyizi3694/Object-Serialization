@@ -1,0 +1,7 @@
+/mnt/d/PROJECT/Object-Oriented-Programming/Object-Serialization/build/CMakeFiles/tinyxml2.dir
+/mnt/d/PROJECT/Object-Oriented-Programming/Object-Serialization/build/CMakeFiles/serialization_lib.dir
+/mnt/d/PROJECT/Object-Oriented-Programming/Object-Serialization/build/CMakeFiles/main_app.dir
+/mnt/d/PROJECT/Object-Oriented-Programming/Object-Serialization/build/CMakeFiles/run_tests.dir
+/mnt/d/PROJECT/Object-Oriented-Programming/Object-Serialization/build/CMakeFiles/test.dir
+/mnt/d/PROJECT/Object-Oriented-Programming/Object-Serialization/build/CMakeFiles/edit_cache.dir
+/mnt/d/PROJECT/Object-Oriented-Programming/Object-Serialization/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_tests.dir/test/test_main.cpp.o -o test/run_tests  libserialization_lib.a libtinyxml2.a 
